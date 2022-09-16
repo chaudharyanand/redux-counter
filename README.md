@@ -1,1 +1,1 @@
-# redux-counter
+Counter using Redux by Ajaykumar Bhagat
